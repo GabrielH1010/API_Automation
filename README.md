@@ -114,10 +114,10 @@ Ele reflete o uso real de ferramentas que fazem parte do meu dia a dia como Anal
 ## 👨‍💻 Autor
 
 <p>Gabriel Henrique de Oliveira</p>
-Quality Assurance (QA) | QA Engineer | Cypress | RestAssured | Selenium | Testes Manuais & Automatizados
+<p>Quality Assurance (QA) | QA Engineer | Cypress | RestAssured | Selenium | Testes Manuais & Automatizados</p>
 
-[📧 Gmail](gabrielhdeoliveira17@gmail.com)
-[💼 LinkedIn](https://www.linkedin.com/in/gabriel-henrique-de-oliveira)
-[🐙 GitHub](https://github.com/GabrielH1010)
+- [📧 Gmail](gabrielhdeoliveira17@gmail.com)
+- [💼 LinkedIn](https://www.linkedin.com/in/gabriel-henrique-de-oliveira)
+- [🐙 GitHub](https://github.com/GabrielH1010)
 
 ---
